@@ -1,0 +1,7 @@
+{
+  "slug": "wechatpay-basic-payment",
+  "displayName": "wechatpay-basic-payment",
+  "description": "微信支付基础支付接入助手：支付、退款与账单、分账、商户进件、开户意愿确认。",
+  "releaseVersion": "1.0.1",
+  "authorVersion": "1.0.0"
+}
